@@ -1,2 +1,7 @@
 # CS-360-Mobile-InventoryApp
-Project for my CS-360 Mobile Architect &amp; Programming Class at SNHU
+
+This project is for my CS-360 Mobile Architect &amp; Programming Class at SNHU
+
+In this project, I built an Inventory App to help users easily keep track of their supplies and make managing inventory less of a hassle. The main goal was to give users a simple and reliable way to add, update, and delete items, while also getting alerts when stock was running low. To make the app easy to use, I designed a few key screens like a home dashboard, item detail view, and an add/edit item screen. I kept the layout clean and intuitive with clear buttons and navigation so users could quickly find what they needed without extra steps. Overall, I wanted the design to feel straightforward and user-friendly, and I think it succeeded in doing just that.
+
+When it came to development, I took things step by step—starting with the layouts, then connecting them to the logic and database. I used modular code and tested after every major update to make sure everything worked before moving on. This helped me catch bugs early and keep the project organized. Testing was a big part of the process since it showed me how different screens interacted and helped fix features like data syncing. One of the biggest challenges was making sure updates to items showed up, but I figured out a good solution by improving how the app handled state changes. I’m especially proud of the dynamic inventory list feature. It really shows how much I’ve grown and learned!
